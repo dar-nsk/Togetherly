@@ -1,5 +1,3 @@
-# Togetherly
-
 # Togetherly 🧑‍🤝‍🧑🌐
 
 Togetherly is a secure, real-time community platform that connects users based on shared interests and locations. Users can join or create communities, earn verified badges (like Student or Professional), and participate in discussions or file-sharing—depending on admin-controlled permissions. All profiles are public for discovery, but messaging is invite-only to ensure privacy and prevent spam.
